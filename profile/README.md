@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🙋‍♀️ A short introduction - Bigdatum Services provides bigdata services to customer world wide 
+👩‍💻 Useful resources - Here is the [link](https://www.bigdatum.in/)
+🍿 Fun facts - We helped customer to start from scratch and build data pipelines
+
 <!--
 
 **Here are some ideas to get you started:**
