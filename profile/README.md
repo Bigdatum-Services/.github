@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 🙋‍♀️ A short introduction - Bigdatum Services provides bigdata services to customer world wide 
 👩‍💻 Useful resources - Here is the [link](https://www.bigdatum.in/)
